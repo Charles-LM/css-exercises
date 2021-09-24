@@ -1,0 +1,9 @@
+/* yellow background, red text, a font size of 20px, and center aligned */
+
+.container .text {
+    font-size: 20px;
+    background-color: yellow;
+    color: red;
+    text-align: center;
+}
+
